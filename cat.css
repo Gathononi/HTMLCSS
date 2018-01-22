@@ -1,0 +1,47 @@
+
+
+
+
+
+ul li{
+  display: inline;
+  float: right;
+  padding: 20px;
+
+}
+
+#header{
+	height:50px; 
+	width:100%;
+	background-color: grey;
+}
+
+
+
+
+
+.deb{column-count: 3;
+column-rule-style: solid;
+text-decoration-style:unset;}
+
+
+	h2{color: red;
+		font-family: purisa}
+		#set{background-color: pink}
+
+		#pic{width: 30px;
+			height:30px;}
+
+
+			.picture{width: 100%;
+				height:500px;}
+
+				#copy{text-align: center;}
+
+
+
+
+
+
+
+
